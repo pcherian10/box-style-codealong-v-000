@@ -160,7 +160,9 @@ header {
 }
 
 #navbar nav a {
-
+  display: inline;
+  width;
+  
 }
 
 
